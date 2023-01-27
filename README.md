@@ -1,2 +1,2 @@
-# omikujii
-おみくじ
+# assessment
+あなたのいいところ診断ゲーム
